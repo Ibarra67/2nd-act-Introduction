@@ -4,11 +4,11 @@
 	font-family: Century Gothic;
 }
 
-header{
+body{
 	background-image:url(Images/imagefile1.jpg);
-	height: 100px;
-	background-size: cover;
-	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
 }
 
 .title{
